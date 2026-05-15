@@ -1,5 +1,5 @@
-Ejercicio 1: Deward Francisco Reyes Sosa - 100075688
-Ejercicio 2: Manuel De Jesús Rodríguez Mancebo - 100066302
-Ejercicio 3: Marcos Xavier Rodríguez Santana - 100078312
-Ejercicio 4 en C++: Alan Imanol Rodríguez Cabreja - 100091862
-Ejercicio 4 en Python: Ángel José Reyes Vásquez - 100091673
+- Ejercicio 1: Deward Francisco Reyes Sosa - 100075688
+- Ejercicio 2: Manuel De Jesús Rodríguez Mancebo - 100066302
+- Ejercicio 3: Marcos Xavier Rodríguez Santana - 100078312
+- Ejercicio 4 en C++: Alan Imanol Rodríguez Cabreja - 100091862
+- Ejercicio 4 en Python: Ángel José Reyes Vásquez - 100091673
